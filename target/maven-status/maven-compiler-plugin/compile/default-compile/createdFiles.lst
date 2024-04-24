@@ -1,0 +1,14 @@
+com\mycompany\lab3mascotas\web\MascotaServlet.class
+com\mycompany\lab3mascotas\web\BuscarPorIdServlet.class
+com\mycompany\lab3mascotas\datos\MascotaDaoImp.class
+com\mycompany\lab3mascotas\servicios\IMascotaService.class
+com\mycompany\lab3mascotas\web\EliminarMascota.class
+com\mycompany\lab3mascotas\web\ModificarMascota.class
+com\mycompany\lab3mascotas\web\AgregarMascotaServlet.class
+com\mycompany\lab3mascotas\datos\IMascotaDao.class
+com\mycompany\lab3mascotas\dominio\Dueno.class
+com\mycompany\lab3mascotas\resources\JavaEE8Resource.class
+com\mycompany\lab3mascotas\JAXRSConfiguration.class
+com\mycompany\lab3mascotas\web\BuscarPorTipoServlet.class
+com\mycompany\lab3mascotas\dominio\Mascota.class
+com\mycompany\lab3mascotas\servicios\MascotaServiceImp.class
